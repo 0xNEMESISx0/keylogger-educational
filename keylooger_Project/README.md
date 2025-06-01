@@ -17,6 +17,6 @@ I, the author, take **no responsibility** for any misuse or damage caused by thi
 
 ## Usage
 ```bash
-python3 keylogger_multi.py
+python3 keylogger.py
 
 
